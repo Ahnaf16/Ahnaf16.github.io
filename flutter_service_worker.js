@@ -3,16 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "adf10bc7935b7090479d12fd1edb8447",
+  "assets/AssetManifest.json": "d4949244ede6c59ed33df9b953d80dee",
 "assets/assets/font/ShareTechMono-Regular.ttf": "a1cea4ee23cd0a3e68cd6dcc1155613c",
 "assets/assets/imgs/ahnaf.jpg": "267c9d5037dd48d9dfbe21c45e5b3c78",
 "assets/assets/imgs/ai.png": "0e9416936607d501ba85fbe69aad962f",
 "assets/assets/imgs/dart.png": "53ad3769f6d6f51f75fd3bcab2843cd4",
 "assets/assets/imgs/figma.png": "4f0ef24abbc6529022ba0776f33bab4b",
+"assets/assets/imgs/logo.png": "8141019d7caec753b72933ed8f8fa696",
 "assets/assets/imgs/ps.png": "9ceaba69b7a9f89158ff953107978f3e",
 "assets/FontManifest.json": "e4a433a32d2544f0837158a33989071e",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/NOTICES": "d22374dc2497c529fd39cb36ff290423",
+"assets/NOTICES": "34b7edf6ddf27749173576160b69d862",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "b62641afc9ab487008e996a5c5865e56",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
@@ -24,10 +25,20 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b2b0e00431b5db95666ee4221136c00d",
-"/": "b2b0e00431b5db95666ee4221136c00d",
-"main.dart.js": "d59f912dddb35855315f970d729863d3",
+"index.html": "0325f06751ec243d996fd6ea790849b5",
+"/": "0325f06751ec243d996fd6ea790849b5",
+"main.dart.js": "5699c21e686931b37ea455b34ab3b3ec",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
+"splash/img/dark-1x.png": "76048b158ac017cec3878710997fed09",
+"splash/img/dark-2x.png": "e63e362c3ea73832294fc5cab0988605",
+"splash/img/dark-3x.png": "d7a54351dfa2197198dabfea689ed1c8",
+"splash/img/dark-4x.png": "a0e76129fa3fe3e8be3abd468d412f57",
+"splash/img/light-1x.png": "76048b158ac017cec3878710997fed09",
+"splash/img/light-2x.png": "e63e362c3ea73832294fc5cab0988605",
+"splash/img/light-3x.png": "d7a54351dfa2197198dabfea689ed1c8",
+"splash/img/light-4x.png": "a0e76129fa3fe3e8be3abd468d412f57",
+"splash/splash.js": "c6a271349a0cd249bdb6d3c4d12f5dcf",
+"splash/style.css": "882b8f864fb3871aa4d82f1549988547",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
 
